@@ -1,0 +1,15 @@
+{
+    "herbivores": [{
+        "animal": "Bovines"
+    }, {
+        "animal": "Deer"
+    }, {
+        "animal": "Diprotodontia"
+    }, {
+        "animal": "Equids"
+    }, {
+        "animal": "Lagomorpha"
+    }, {
+        "animal": "Rodents"
+    }]
+}
