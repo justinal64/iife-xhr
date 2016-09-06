@@ -3,7 +3,7 @@
 
 
 ## Description
-In this exercise I combines my knowledge of iife, augmented iife's, xhr and callback functions to create a simple website that pulls from two json files using xhr and prints them to the dom using an augmented iife and a callback function.
+In this exercise I combined my knowledge of iife's, augmented iife's, xhr and callback functions to create a simple website that pulls from two json files using xhr and prints them to the dom using an augmented iife and a callback function.
 
 ## How to run
 In your terminal run:
