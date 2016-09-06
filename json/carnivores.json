@@ -1,0 +1,15 @@
+{
+    "carnivores": [{
+        "animal": "Wildcat"
+    }, {
+        "animal": "Chinese Mountain Cat"
+    }, {
+        "animal": "Black-footed Cat"
+    }, {
+        "animal": "Sand Cat"
+    }, {
+        "animal": "Jungle Cat"
+    }, {
+        "animal": "Leopard Cat"
+    }]
+}
